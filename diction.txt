@@ -1,0 +1,1391 @@
+
+(:WORD "Abase; n. abasement" :MEANING "v. lower; degrade; humiliate" :EXAMPLE
+ "when asked to cast herself down on the ground before king, she refused to abase herself") 
+
+(:WORD "Abash" :MEANING "v. embarass" :EXAMPLE "") 
+
+(:WORD "Abate" :MEANING "v. subside; moderate" :EXAMPLE
+ "they waited for the storm to abate.") 
+
+(:WORD "Abbreviate" :MEANING "v. shorten" :EXAMPLE "") 
+
+(:WORD "Abdicate" :MEANING "v. renounce; give up" :EXAMPLE
+ "he surprised the world by abdicating the british throne") 
+
+(:WORD "Aberrant" :MEANING "adj. abnormal or deviant" :EXAMPLE "") 
+
+(:WORD "Aberration" :MEANING
+ "n. abnormality; departure from the norm; mental irregularity or disorder"
+ :EXAMPLE
+ "investors on the Wall street believe that current high oil prices are a temporary aberration.") 
+
+(:WORD "Abet" :MEANING "v. assist, usually in doing something wrong; encourage"
+ :EXAMPLE "") 
+
+(:WORD "Abeyance" :MEANING "n. temporarily suspended action" :EXAMPLE
+ "the deal was held in abeyance until her arrival") 
+
+(:WORD "Abhor, n. abhorrence" :MEANING "v. detest; hate" :EXAMPLE "") 
+
+(:WORD "Abject" :MEANING
+ "adj. wretched; lacking pride; of the most contemptible kind; most unfortunate or miserable; showing utter resignation or hopelessness; showing humiliation or submissiveness"
+ :EXAMPLE
+ "abject poverty;abject surrender; an abject apology; the most abject slaves joined in the revolt") 
+
+(:WORD "Abjure; n. Abjuration" :MEANING
+ "v. renounce upon oath, usually under pressure; disavow" :EXAMPLE
+ "Pressure from university authorities caused the young scholar to abjure his heretica opinions") 
+
+(:WORD "Ablution" :MEANING "n. washing" :EXAMPLE
+ "his daily ablutions were accompanied by loud noises that he humorously labeled as opera in bath.") 
+
+(:WORD "Abnegation" :MEANING "n. renunciation; self-sacrifice" :EXAMPLE "") 
+
+(:WORD "Abolish, n. abolition" :MEANING "v. ban; put an end to" :EXAMPLE "") 
+
+(:WORD "Abominable" :MEANING "adj. detestable; extremely unpleasant; very bad"
+ :EXAMPLE "") 
+
+(:WORD "Aboriginal, n. aborigine" :MEANING
+ "adj., n. being the first of its kind in a region; primitive; native" :EXAMPLE
+ "Her studies of the primitive art forms of the aboriginal Indians were widely reported in the scientific journals") 
+
+(:WORD "Abortive, v. abort" :MEANING "adj. unsuccessful; fruitless" :EXAMPLE "") 
+
+(:WORD "Abrasive, v. abrade" :MEANING
+ "adj. rubbing away; tending to grind down" :EXAMPLE
+ "just as abrasive cleaning powders can wear away a shiny finish, abrasive remarks can wear away a listner's patience") 
+
+(:WORD "Abridge" :MEANING "v. condense; shorten" :EXAMPLE "abridge the novel") 
+
+(:WORD "Abrogate" :MEANING "v. abolish" :EXAMPLE "") 
+
+(:WORD "Abscission" :MEANING "n. removal by cutting off, as in surgery"
+ :EXAMPLE "") 
+
+(:WORD "Abscond" :MEANING "v. depart secretly and hide" :EXAMPLE "") 
+
+(:WORD "Absolve; n. absolution" :MEANING "v. pardon (an offense)" :EXAMPLE
+ "the father confessor absolved him of his sins") 
+
+(:WORD "Absoute" :MEANING "adj. complete; certain; totally unlimited" :EXAMPLE
+ "") 
+
+(:WORD "Abstain" :MEANING "v. refrain; withhold from participation" :EXAMPLE "") 
+
+(:WORD "Abstarct" :MEANING
+ "adj. theoretical; not concrete; nonrepresentational" :EXAMPLE
+ "to him, fasting was an abstract concept") 
+
+(:WORD "Abstemious" :MEANING "adj. sparing in eating and drinking; temperate"
+ :EXAMPLE "") 
+
+(:WORD "Abstinence" :MEANING "n. restraint from eating or drinking" :EXAMPLE "") 
+
+(:WORD "Abstruse" :MEANING "adj. obscure; profound; difficult to understand"
+ :EXAMPLE "") 
+
+(:WORD "Abusive" :MEANING "adj. coarsely insulting; physically harmful"
+ :EXAMPLE "") 
+
+(:WORD "Abut" :MEANING "v. border upon; adjoin" :EXAMPLE
+ "where our estate abut, we must build a fence") 
+
+(:WORD "Abysmal" :MEANING "adj. bottomless" :EXAMPLE "abysmal ignorance") 
+
+(:WORD "Abyss" :MEANING "n. enormous chasm; vast, bottomless pit" :EXAMPLE "") 
+
+(:WORD "Academic" :MEANING
+ "adj. relating to a school; not practical or directly useful" :EXAMPLE "") 
+
+(:WORD "Accelerate" :MEANING "v. move faster" :EXAMPLE "") 
+
+(:WORD "Accessible" :MEANING "adj. easy to approach; obtainable" :EXAMPLE "") 
+
+(:WORD "Accessory" :MEANING
+ "n. additional object; useful but not essential thing" :EXAMPLE "") 
+
+(:WORD "Acclaim, n. acclaimation" :MEANING
+ "v. applaude; announce with great approval" :EXAMPLE
+ "the sportscasters acclaimed every American victory") 
+
+(:WORD "Acclimate" :MEANING "v. adjust to climate or environment; adapt"
+ :EXAMPLE
+ "travelers must acclimate themselves to their new and strange environments") 
+
+(:WORD "Acclivity" :MEANING "n. sharp upslope of a hill" :EXAMPLE "") 
+
+(:WORD "Accolade" :MEANING "n. award of merit" :EXAMPLE
+ "In Hollywood, an Oscar is the highest accolade") 
+
+(:WORD "Accommodate" :MEANING
+ "v. oblige or help someone; adjust or bring into harmony; adapt" :EXAMPLE "") 
+
+(:WORD "Accomplice" :MEANING "n. partner in crime" :EXAMPLE "") 
+
+(:WORD "Accord" :MEANING "n. agreement" :EXAMPLE
+ "She was in complete accord with the verdict") 
+
+(:WORD "Accost" :MEANING "v. approach and speak first to a person" :EXAMPLE
+ "when the two youn men accosted me, I was frightened") 
+
+(:WORD "Accoutre, n. accoutrement" :MEANING "v. equip" :EXAMPLE "") 
+
+(:WORD "Accrue; n. Accrual" :MEANING "v. come about by addition" :EXAMPLE
+ "you must pay the interest that has accrued on your debt along with the principal sum") 
+
+(:WORD "Acerbic" :MEANING "Adj. bitter or sour in nature; sharp and cutting"
+ :EXAMPLE "Acerbic wit") 
+
+(:WORD "Acerbity" :MEANING "n. bitterness of speech and temper" :EXAMPLE
+ "the meeting was marked with such acerbity that obserevers held little hope to reaching a solution. ") 
+
+(:WORD "Acetic" :MEANING "adj. vinegary" :EXAMPLE "") 
+
+(:WORD "Acidulous" :MEANING "adj. slightly sour; sharp; caustic" :EXAMPLE
+ "James was unpopular because of his sarcastic and acidulous remarks ") 
+
+(:WORD "Acknowledge" :MEANING "v. recognise; admit" :EXAMPLE "") 
+
+(:WORD "Acme" :MEANING "n. peak; pinnacle; highest point" :EXAMPLE
+ "acme of career") 
+
+(:WORD "Acoustics" :MEANING
+ "n. science of sound; quality that makes a room easy or hard to hear in. "
+ :EXAMPLE "") 
+
+(:WORD "Acquiesce; n. acquiescence, adj. acquiescent" :MEANING
+ "v. assent; agree passively" :EXAMPLE
+ "although she appeared to acquiesce to her employer's suggestions, I could tell she had reservations about the changes he wanted to make.") 
+
+(:WORD "Acquittal; v. acquit" :MEANING "n. deliverance from a charge" :EXAMPLE
+ "") 
+
+(:WORD "Acrid" :MEANING "adj. sharp; bitterly pungent" :EXAMPLE
+ "Acrid odor of burnt gunpowder") 
+
+(:WORD "Acrimonious; n. acrimony" :MEANING "Adj. bitter in words or manner"
+ :EXAMPLE "") 
+
+(:WORD "Acrophobia" :MEANING "n. fear of heights" :EXAMPLE "") 
+
+(:WORD "Actuarial" :MEANING
+ "Adj. calculating; pertaining to insurance statistics" :EXAMPLE
+ "According to recent actuarial tables, life expectancy is greater today then it was a century ago.") 
+
+(:WORD "Actuate" :MEANING "v. motivate" :EXAMPLE "") 
+
+(:WORD "Acuity" :MEANING "n. sharpness" :EXAMPLE
+ "In time his youthful acuity of vision failed him, and he needed glasses.") 
+
+(:WORD "Acumen" :MEANING "n. mental keenness" :EXAMPLE
+ "her business acumen helped her to succeed where others had failed") 
+
+(:WORD "Acute" :MEANING "adj. quickly perceptive; keen; brief and severe"
+ :EXAMPLE
+ "the acute young doctor realized immediately that the gradual deterioration of her patient's once-acute hearing was due to chronic illness, not an acute one") 
+
+(:WORD "Adage" :MEANING "n. wise saying; proverb" :EXAMPLE "") 
+
+(:WORD "Adamant; n. adamancy " :MEANING "Adj. hard; inflexible" :EXAMPLE "") 
+
+(:WORD "Addendum" :MEANING "n. addition; appendix to book" :EXAMPLE "") 
+
+(:WORD "Addiction" :MEANING "n. compulsive, habitual need" :EXAMPLE "") 
+
+(:WORD "Addle; adj. addled" :MEANING "v. muddle; drive crazy; become rotten"
+ :EXAMPLE "") 
+
+(:WORD "Address" :MEANING "v. direct a speech to; deal with or discuss"
+ :EXAMPLE "") 
+
+(:WORD "Adept" :MEANING "adj., n. expert at" :EXAMPLE
+ "She was adept at fine arts") 
+
+(:WORD "Adhere; n. adhesion; n. adherence" :MEANING "v. stick fast" :EXAMPLE
+ "Example") 
+
+(:WORD "Adjacent " :MEANING "adj. adjoining; neighbouring" :EXAMPLE "") 
+
+(:WORD "Adjunct" :MEANING
+ "n. , adj.something (generally nonessential) added on or attached" :EXAMPLE "") 
+
+(:WORD "Adjuration; v. adjure" :MEANING "n. solemn urging" :EXAMPLE "") 
+
+(:WORD "Adjutant " :MEANING
+ "n. staff officer assisting the commander; assistant" :EXAMPLE "") 
+
+(:WORD "Admonish" :MEANING "v. warn; reprove" :EXAMPLE "") 
+
+(:WORD "Adorn; n. adornment" :MEANING "v. decorate" :EXAMPLE "") 
+
+(:WORD "Adroit" :MEANING "Adj. skillful" :EXAMPLE
+ "his adroit handling of the situation pleased her employers") 
+
+(:WORD "Adulation; v. adulate" :MEANING "n. flaterry; admiration" :EXAMPLE
+ "the rock star thrived on the adulation of his yes-men") 
+
+(:WORD "Adulterate; n. adulteration" :MEANING
+ "v. make impure by adding inferior or tainted substances" :EXAMPLE "") 
+
+(:WORD "Advent " :MEANING "n. arrival" :EXAMPLE "") 
+
+(:WORD "Adventitious" :MEANING "adj. accidental; casual" :EXAMPLE
+ "she found this adventitious meeting with her friend extremely fortunate") 
+
+(:WORD "Adversary" :MEANING "n. opponent; enemy" :EXAMPLE "") 
+
+(:WORD "Adverse" :MEANING "adj. unfavorable; hostile" :EXAMPLE "") 
+
+(:WORD "Adversity" :MEANING "n. poverty; misfortune" :EXAMPLE "") 
+
+(:WORD "Advert" :MEANING "v. refer (to)" :EXAMPLE "") 
+
+(:WORD "Advocacy" :MEANING
+ "n. support; active pleading on behalf of someone or something" :EXAMPLE "") 
+
+(:WORD "Advocate" :MEANING "v., n. urge; pleade for" :EXAMPLE "") 
+
+(:WORD "Aegis" :MEANING "n. shield; defense" :EXAMPLE
+ "Under the aegis of the Bill of Rights, we enjoy our most treasured freedoms") 
+
+(:WORD "Aesthetic, n. aesthete" :MEANING
+ "adj. artistic; dealing with or capable of appreciating the beautiful"
+ :EXAMPLE "aesthetic sense") 
+
+(:WORD "Affable; n. affability" :MEANING
+ "adj. easily approachable; warmly friendly" :EXAMPLE "") 
+
+(:WORD "Affected; n. Affectation" :MEANING
+ "adj. artificial; pretended; assumed in order to impress" :EXAMPLE
+ "his affected mannerisms") 
+
+(:WORD "Affidavit" :MEANING "n. written statement made under oath" :EXAMPLE "") 
+
+(:WORD "Affiliation" :MEANING "n. joining; associating with" :EXAMPLE "") 
+
+(:WORD "Affinity" :MEANING "n. kinship" :EXAMPLE
+ "she felt affinity for her students") 
+
+(:WORD "Affirmation" :MEANING
+ "n. positive assertion; confirmation; solemn pledge by one who refuses to take an oath"
+ :EXAMPLE "") 
+
+(:WORD "Affix" :MEANING "v. attach or add on; fasten " :EXAMPLE "") 
+
+(:WORD "Affliction" :MEANING "n. state of distress; cause of suffering"
+ :EXAMPLE "") 
+
+(:WORD "Affluence" :MEANING "n. abundance; wealth" :EXAMPLE "") 
+
+(:WORD "Affront" :MEANING
+ "n., v. insult; offense; intentional act of disrespect" :EXAMPLE "") 
+
+(:WORD "Agape" :MEANING "adj. openmouthed" :EXAMPLE "") 
+
+(:WORD "Agenda" :MEANING "n. items of business at a meeting" :EXAMPLE "") 
+
+(:WORD "Agglomeration" :MEANING "n. collection; heap" :EXAMPLE "") 
+
+(:WORD "Aggrandize" :MEANING
+ "v. increase or intensify; raise in power, wealth, rank or honor" :EXAMPLE "") 
+
+(:WORD "Aggregate" :MEANING "v. gather; accumulate" :EXAMPLE "dealers managed ") 
+
+(:WORD "Aggressor" :MEANING "n. attacker" :EXAMPLE "") 
+
+(:WORD "Aghast" :MEANING "adj. horrified; dumbfounded" :EXAMPLE "") 
+
+(:WORD "Agility" :MEANING
+ "n. nimbleness; gracefulness of a person or animal that quick and nimble"
+ :EXAMPLE "") 
+
+(:WORD "Agnostic" :MEANING
+ "n. one who is skeptical of the existence of a god or any ultimate reality"
+ :EXAMPLE "") 
+
+(:WORD "Agog" :MEANING "adj. highly excited; intensely curious" :EXAMPLE "") 
+
+(:WORD "Agrarian" :MEANING "adj. pertaining to land or its cultivation
+"
+ :EXAMPLE "") 
+
+(:WORD "Alacrity" :MEANING "n. cheerful promptness; eagerness" :EXAMPLE "") 
+
+(:WORD "Alchemy" :MEANING
+ "n. medieval form of speculative thought that aimed to transform base metals (lead or copper) into gold and to discover a means of prolonging life"
+ :EXAMPLE "") 
+
+(:WORD "Alcove" :MEANING "n. nook; recess" :EXAMPLE "") 
+
+(:WORD "Alienate" :MEANING "v. make hostile; separate" :EXAMPLE "") 
+
+(:WORD "Alimentary" :MEANING "adj. supplying nourishment" :EXAMPLE "") 
+
+(:WORD "Alimony" :MEANING "n. payments made to an ex-spouse after divorce"
+ :EXAMPLE "") 
+
+(:WORD "Allay" :MEANING "v. calm; pacify" :EXAMPLE "") 
+
+(:WORD "Allege" :MEANING "v. state without proof" :EXAMPLE "") 
+
+(:WORD "Allegiance" :MEANING "n. loyalty" :EXAMPLE "") 
+
+(:WORD "Allegory" :MEANING
+ "n. story in which characters are used as symbols; fable" :EXAMPLE "") 
+
+(:WORD "Alleviate" :MEANING "v. relieve" :EXAMPLE "") 
+
+(:WORD "Alliteration" :MEANING "n. repitition of beginning sound in poetry "
+ :EXAMPLE "\"the furrow followed tree\" is an example of alliteration") 
+
+(:WORD "Allude" :MEANING "v. refer indirectely" :EXAMPLE "") 
+
+(:WORD "Allure" :MEANING "v. entice; attract" :EXAMPLE "") 
+
+(:WORD "Allusion" :MEANING "n. indirect reference" :EXAMPLE "") 
+
+(:WORD "Alluvial" :MEANING
+ "adj. pertaining to soil deposits left by running water" :EXAMPLE "") 
+
+(:WORD "Aloft" :MEANING "adv. upward" :EXAMPLE "") 
+
+(:WORD "Altercation" :MEANING "n. noisy quarrel; heated dispute" :EXAMPLE "") 
+
+(:WORD "Altruistic" :MEANING "adj. unselfishly generous; concerned for others "
+ :EXAMPLE "") 
+
+(:WORD "Amalgamate" :MEANING "v. combine; unite in one body" :EXAMPLE "") 
+
+(:WORD "Amass" :MEANING "v. collect" :EXAMPLE "") 
+
+(:WORD "Amazon" :MEANING "n. female warrior" :EXAMPLE "") 
+
+(:WORD "Ambience" :MEANING "n. environment; atmosphere" :EXAMPLE "") 
+
+(:WORD "Ambivalence" :MEANING
+ "n. the state of having contradictory or conflicting emotional attitudes "
+ :EXAMPLE "") 
+
+(:WORD "Amble" :MEANING "n. moving at an easy pace" :EXAMPLE "") 
+
+(:WORD "Ambrosia" :MEANING "n. food of gods" :EXAMPLE "") 
+
+(:WORD "Ambulatory" :MEANING "adj. able to walk; not bedridden" :EXAMPLE "") 
+
+(:WORD "Ameable" :MEANING
+ "adj. readily managed or willing to be led; answerable or accountable legally"
+ :EXAMPLE "") 
+
+(:WORD "Ameliorate" :MEANING "v. improve" :EXAMPLE "") 
+
+(:WORD "Amenities" :MEANING "n. convinient features; courtesies" :EXAMPLE "") 
+
+(:WORD "Amicable" :MEANING "adl. politely friendly; not quarrelsome" :EXAMPLE
+ "") 
+
+(:WORD "Amiss" :MEANING "adj. wrong; faulty" :EXAMPLE "") 
+
+(:WORD "Amity" :MEANING "n. friendship" :EXAMPLE "") 
+
+(:WORD "Amnesia" :MEANING "n. loss of memory" :EXAMPLE "") 
+
+(:WORD "Amnesty" :MEANING "n. pardon" :EXAMPLE "") 
+
+(:WORD "Amock; Amuck" :MEANING "Adv. in a state of rage" :EXAMPLE "") 
+
+(:WORD "Amok; amuck" :MEANING "adv. in a state of rage" :EXAMPLE "") 
+
+(:WORD "Amorphous" :MEANING "adj. formless; lacking shape or definition"
+ :EXAMPLE "") 
+
+(:WORD "Amputate" :MEANING "v. cut off part of body; prune" :EXAMPLE "") 
+
+(:WORD "Amulet" :MEANING "n. charm; talisman" :EXAMPLE "") 
+
+(:WORD "Anachronism" :MEANING "n. something or someone misplaced in time"
+ :EXAMPLE "") 
+
+(:WORD "Analgesic" :MEANING "adj. causing insensitivity to pain" :EXAMPLE "") 
+
+(:WORD "Anarchist " :MEANING
+ "n. person who seeks to overturn the established government; advocate of abolishing authority"
+ :EXAMPLE "") 
+
+(:WORD "Anarchy" :MEANING "n. absence of governing body, state of disorder"
+ :EXAMPLE "") 
+
+(:WORD "Anathema; anathematize" :MEANING
+ "n. solemn curse; someone or something regarded as a curse" :EXAMPLE "") 
+
+(:WORD "Ballast" :MEANING "n. heavy substance used to add stability or weight"
+ :EXAMPLE "") 
+
+(:WORD "Balm" :MEANING "n. something tha relieves pain" :EXAMPLE "") 
+
+(:WORD "Balmy" :MEANING "adj. mild; fragrant" :EXAMPLE "") 
+
+(:WORD "Banal" :MEANING
+ "adj. hackneyed; commonplace; trite; lacking originality" :EXAMPLE "") 
+
+(:WORD "Bandy" :MEANING
+ "v. discuss lightly or glibly; exchange (words) heatedly" :EXAMPLE
+ "while the president was happy to bandy patriotic generalizations with anyone, he refused to bandy words with unfriendly reporters.") 
+
+(:WORD "Bane" :MEANING "n. curse; cause of ruin" :EXAMPLE "") 
+
+(:WORD "Baneful" :MEANING "adj. destructive; causing ruin or death" :EXAMPLE "") 
+
+(:WORD "Bantering" :MEANING "adj. good-naturedly ridiculing" :EXAMPLE
+ "they resented his bantering remarks because they misinterpreted his teasing or sarcasm") 
+
+(:WORD "Barbed" :MEANING
+ "capable of wounding; having covered with protective barbs or thorns or spines"
+ :EXAMPLE "a barbed compliment; a house with a short barbed mane") 
+
+(:WORD "Deciduous" :MEANING "adj. falling off, as of leaves" :EXAMPLE
+ "The oak is a deciduous tree") 
+
+(:WORD "Decimate" :MEANING "v. kill, usually one out of ten" :EXAMPLE "") 
+
+(:WORD "Declivity" :MEANING "n. downward slope" :EXAMPLE "") 
+
+(:WORD "Decollete" :MEANING "adj. having a low-cut neckline" :EXAMPLE
+ "decollete gowns") 
+
+(:WORD "Decorum; adj. decorous" :MEANING
+ "n. propriety; orderliness and good taste in manners" :EXAMPLE
+ "Even the best-mannered students have trouble bahaving with decorum on the last day of school") 
+
+(:WORD "Decoy" :MEANING
+ "n. lure; bait; steerer (a beguiler who leads someone into danger)" :EXAMPLE
+ "") 
+
+(:WORD "Decrepitude" :MEANING
+ "n. state of collapse caused by illness or old age" :EXAMPLE "") 
+
+(:WORD "Decry" :MEANING "v. express strong disapproval of; disparage" :EXAMPLE
+ "") 
+
+(:WORD "Deface" :MEANING "v. disfigure; mar" :EXAMPLE "") 
+
+(:WORD "Default" :MEANING
+ "n., v. failure to act; an option that is selected automatically, unless an alternative is specified"
+ :EXAMPLE
+ "When the visiting team failed to show up for the big game, they lost the game by default; When Jack failed to make payments, the dealer took back the car because he had defaulted on his debt") 
+
+(:WORD "Defeatist" :MEANING
+ "adj., n. resigned to defeat; accepting defeat as a natural outcome" :EXAMPLE
+ "") 
+
+(:WORD "Defection" :MEANING
+ "n. desertion; n. withrawing support despite allegiance or responsibility; n. the state of having rejected your religious beliefs for a cause"
+ :EXAMPLE "") 
+
+(:WORD "Defer" :MEANING
+ "v. exempt temporarily; delay till later; give in respectfully; submit"
+ :EXAMPLE "") 
+
+(:WORD "Deference" :MEANING "n. courteous regard for another's wish" :EXAMPLE
+ "In deference to the minister's request, please do not take photographs") 
+
+(:WORD "Defiance; adj. defiant" :MEANING "refusal to yield; resistance"
+ :EXAMPLE "") 
+
+(:WORD "Defoliate" :MEANING "v. destroy leaves" :EXAMPLE
+ "defoliate the woodlands") 
+
+(:WORD "Defray" :MEANING "v. provide for the payment of" :EXAMPLE
+ "Her employer offered to defray the cost of her postgraduate education") 
+
+(:WORD "Defrock" :MEANING
+ "v. to strip a priest or minister of church authority" :EXAMPLE "") 
+
+(:WORD "Deft" :MEANING "adj. neat; skillful" :EXAMPLE
+ "the deft waiter uncorked the champagne without spilling a drop") 
+
+(:WORD "Defunct" :MEANING "adj. dead; not in use or existence" :EXAMPLE "") 
+
+(:WORD "Degenerate" :MEANING "become worse; deteriorate" :EXAMPLE "") 
+
+(:WORD "Deify" :MEANING "v. turn into god; idolize" :EXAMPLE
+ "admire the rockstar all you want, just don't deify him") 
+
+(:WORD "Deign" :MEANING
+ "condescend; stoop; do something that one considers to be below one's dignity"
+ :EXAMPLE "") 
+
+(:WORD "Deleterious" :MEANING "adj. harmful" :EXAMPLE
+ "smoking is deleterious to health") 
+
+(:WORD "Delibrate" :MEANING "v. consider; ponder" :EXAMPLE
+ "she asked for time to delibrate before made her decision") 
+
+(:WORD "Delineate;  n. delineation" :MEANING "v. portray; depict; sketch"
+ :EXAMPLE "") 
+
+(:WORD "Delirium" :MEANING "n. mental disorder marked by confusion" :EXAMPLE "") 
+
+(:WORD "Delta" :MEANING
+ "n. flat plain of mud or sand between branches of a river" :EXAMPLE "") 
+
+(:WORD "Delude" :MEANING "v. decive" :EXAMPLE
+ "the mistress deludes herself that she will be going out of country") 
+
+(:WORD "Deluge" :MEANING "n., v. flood; rush" :EXAMPLE
+ "When we advertised the position, we received a deluge of applications") 
+
+(:WORD "Delusive" :MEANING "adj. deceptive; raising vain hopes" :EXAMPLE "") 
+
+(:WORD "Delve" :MEANING "v. Dig; investigate" :EXAMPLE "") 
+
+(:WORD "Demagogue" :MEANING
+ "person who appeals to people's prejudice; false leader" :EXAMPLE "") 
+
+(:WORD "Demean" :MEANING "v. degrade; humiliate" :EXAMPLE "") 
+
+(:WORD "Demeanor" :MEANING "n. behavior; bearing" :EXAMPLE "") 
+
+(:WORD "Demented" :MEANING "insane" :EXAMPLE "") 
+
+(:WORD "Demise" :MEANING "n. Death" :EXAMPLE "") 
+
+(:WORD "Demographic; n. demography" :MEANING
+ "adj. related to population balance" :EXAMPLE
+ "In conducting a survey, one should take into account demographic trends in the region") 
+
+(:WORD "Demolition; v. demolish" :MEANING "n. destruction" :EXAMPLE "") 
+
+(:WORD "Demoniac" :MEANING "adj. fiendish" :EXAMPLE "") 
+
+(:WORD "Demotic" :MEANING "pertaining to people" :EXAMPLE "demotic society") 
+
+(:WORD "Demur" :MEANING
+ "n. objection; protest; v. object(because of doubts or scruples); hesitate"
+ :EXAMPLE "") 
+
+(:WORD "Demure" :MEANING "adj. serious; grave; cow" :EXAMPLE "") 
+
+(:WORD "Denigrate" :MEANING "v. blacken" :EXAMPLE "Denigrate character") 
+
+(:WORD "Denizen" :MEANING "inhabitant or resident; regular visitor" :EXAMPLE "") 
+
+(:WORD "Denotation" :MEANING "n. meaning; distinguishing by name" :EXAMPLE "") 
+
+(:WORD "Denouement" :MEANING
+ "n. outcome; final development of the plot of a play or other literary work"
+ :EXAMPLE "") 
+
+(:WORD "Denounce" :MEANING "v. condemn; criticize" :EXAMPLE "") 
+
+(:WORD "Deplore" :MEANING "regret" :EXAMPLE "") 
+
+(:WORD "Depose" :MEANING "dethrone; remove from office" :EXAMPLE "") 
+
+(:WORD "Deposition" :MEANING "n. Testimony under oath" :EXAMPLE
+ "She made her deposition in the judge's chamber") 
+
+(:WORD "Depravity; v. deprave" :MEANING "n. extreme corruption; wickedness"
+ :EXAMPLE "") 
+
+(:WORD "Deprecate; adj. depricatory" :MEANING
+ "v. express disapproval of; protest against; belittle" :EXAMPLE "") 
+
+(:WORD "Depredation" :MEANING
+ "n. plundering; given to taking by force what is desired" :EXAMPLE
+ "After the depredations of the invaders, the people were penniless") 
+
+(:WORD "Derange" :MEANING "make insane; disarrange" :EXAMPLE "") 
+
+(:WORD "Derelict" :MEANING "adj., n. abandoned; negligent" :EXAMPLE
+ "Derelict craft") 
+
+(:WORD "Deride" :MEANING "ridicule; make fun of" :EXAMPLE "") 
+
+(:WORD "Dire" :MEANING
+ "adj. fraught with extreme danger; nearly hopeless; causing fear, dread or terror"
+ :EXAMPLE "a dire emergency; dire news") 
+
+(:WORD "Disheveled" :MEANING "adj. untidy" :EXAMPLE
+ "your disheveled appearance will hurt your chances in this interview") 
+
+(:WORD "Disinclination" :MEANING "n. unwillingness" :EXAMPLE
+ "some mornings I feel disinclination to get out of bed") 
+
+(:WORD "Disingenuous" :MEANING "adj. lacking genuine candor; insincere"
+ :EXAMPLE "") 
+
+(:WORD "Disinter" :MEANING "v. dig up; unearth" :EXAMPLE "") 
+
+(:WORD "Disinterested" :MEANING "adj. unprejudiced" :EXAMPLE
+ "Given the judge's political ambitions and the lawyers' financial interest in the case, the only disinterested person in the courtroom may have been the court reporter") 
+
+(:WORD "Dislodge" :MEANING "v. remove (forcibly)" :EXAMPLE "") 
+
+(:WORD "Dismantle" :MEANING "v. take apart" :EXAMPLE "") 
+
+(:WORD "Dismember" :MEANING "v. cut into small parts
+"
+ :EXAMPLE
+ "when the Austrian Empire was dismembered, several new countries were established. ") 
+
+(:WORD "Disparage" :MEANING "v. belittle; express a negative opinion of"
+ :EXAMPLE "") 
+
+(:WORD "Disparate" :MEANING "adj. basically different; unrelated" :EXAMPLE "") 
+
+(:WORD "Disparity" :MEANING "n. difference; condition of inequality" :EXAMPLE
+ "") 
+
+(:WORD "Dispassionate" :MEANING "adj. calm; impartial" :EXAMPLE "") 
+
+(:WORD "Dispatch" :MEANING
+ "n., v. speediness; prompt execution; message sent with all due speed"
+ :EXAMPLE "") 
+
+(:WORD "Dispel" :MEANING "v. scatter; drive away; cause to vanish" :EXAMPLE
+ "the bright sunlight eventually dispelled the morning mist") 
+
+(:WORD "Disport" :MEANING "v. amuse" :EXAMPLE "") 
+
+(:WORD "Disputatious" :MEANING "adj. argumentative; fond of arguing" :EXAMPLE
+ "") 
+
+(:WORD "Disquietude; v., n. disquiet" :MEANING "n. uneasiness; anxiety"
+ :EXAMPLE "") 
+
+(:WORD "Disquisition" :MEANING
+ "n. a formal systematic inquiry; an explanation of the results of a formal inquiry."
+ :EXAMPLE
+ "In his disquisition, he outlined the steps he had taken in reaching his conclusions") 
+
+(:WORD "Dissemble" :MEANING "v. disguise; pretend" :EXAMPLE "") 
+
+(:WORD "Disseminate" :MEANING "v. distribute; scatter; spread" :EXAMPLE "") 
+
+(:WORD "Dissent" :MEANING "v. disagree" :EXAMPLE "") 
+
+(:WORD "Dissident" :MEANING "adj. dissenting; rebellious" :EXAMPLE "") 
+
+(:WORD "Dissimulate" :MEANING "v. pretend; conceal by feigning" :EXAMPLE "") 
+
+(:WORD "Dissolution" :MEANING "n. disintegration; looseness in morals" :EXAMPLE
+ "") 
+
+(:WORD "Dissonance" :MEANING "n. discord; opposite of harmony" :EXAMPLE "") 
+
+(:WORD "Dissuade" :MEANING "v. discourage; persuade not to do" :EXAMPLE "") 
+
+(:WORD "Distant " :MEANING "adj. reserved or aloof; cold in manner" :EXAMPLE "") 
+
+(:WORD "Distend" :MEANING "v. expand; swell out" :EXAMPLE
+ "I can tell when he is under stress by the way the veins distend on his forehead") 
+
+(:WORD "Distrait" :MEANING "adj. inattentive; distracted" :EXAMPLE "") 
+
+(:WORD "Distraught" :MEANING "adj. upset; distracted by anxiety" :EXAMPLE "") 
+
+(:WORD "Diurnal" :MEANING "adj. daily" :EXAMPLE "") 
+
+(:WORD "Divest" :MEANING "v. deprive; strip" :EXAMPLE "") 
+
+(:WORD "Divulge" :MEANING "v. reveal" :EXAMPLE "") 
+
+(:WORD "Docile" :MEANING "adj. obidient; easily managed" :EXAMPLE "") 
+
+(:WORD "Docket" :MEANING
+ "n. program as for trial; book where such enteries are made" :EXAMPLE "") 
+
+(:WORD "Doctrinaire" :MEANING
+ "aj. unable to compromise about points of doctrine; dogmatic; unyielding"
+ :EXAMPLE "\\") 
+
+(:WORD "Doddering" :MEANING "adj. shaky; infirm from old age" :EXAMPLE "") 
+
+(:WORD "Doff" :MEANING "v. take off" :EXAMPLE
+ "A gentleman used to doff his hat to a lady") 
+
+(:WORD "Dogged " :MEANING "aj. determined; stubborn" :EXAMPLE "") 
+
+(:WORD "Doggerel" :MEANING "n. poor verse" :EXAMPLE "") 
+
+(:WORD "Dogmatic" :MEANING "adj. opinionated; doctrinal; arbitrary" :EXAMPLE "") 
+
+(:WORD "Doldrums" :MEANING "n. blues; stagnancy; slack period; listlessness"
+ :EXAMPLE "") 
+
+(:WORD "Doleful" :MEANING "adj. mournful; causing or expressing sadness"
+ :EXAMPLE "") 
+
+(:WORD "Dolorous" :MEANING "adj. sorrowful" :EXAMPLE "") 
+
+(:WORD "Dolt; adj. Doltish" :MEANING "n. stupid person; dunce; dullard;
+"
+ :EXAMPLE "") 
+
+(:WORD "Domicile" :MEANING "n. home" :EXAMPLE "") 
+
+(:WORD "Domineer" :MEANING "v. rule over tyrannically" :EXAMPLE
+ "students prefer teachers who guide not ones who domineer") 
+
+(:WORD "Don" :MEANING "v. put on" :EXAMPLE
+ "Clark had to don his supermn outfit") 
+
+(:WORD "Dormant; n. dormancy" :MEANING "Adj. Sleeping; lathargic; latent"
+ :EXAMPLE "At fifty her long-dormant ambition to write flared up once more.") 
+
+(:WORD "Dormer" :MEANING "n. window projecting from roof" :EXAMPLE "") 
+
+(:WORD "Dorsal" :MEANING "adj. relating to back side of an animal" :EXAMPLE
+ "A shark may be identified by its dorsal fin") 
+
+(:WORD "Dossier" :MEANING "n. file os documents on a subject" :EXAMPLE "") 
+
+(:WORD "Dotage" :MEANING
+ "adj. senility; mental infirmity as a consequence of old age" :EXAMPLE "") 
+
+(:WORD "Dote" :MEANING "v. be excessively fond of; show signs ofmental decline"
+ :EXAMPLE "") 
+
+(:WORD "Dour" :MEANING "adj. sullen; stubborn" :EXAMPLE "") 
+
+(:WORD "Douse" :MEANING "v. plunge into water; drench; extinguish" :EXAMPLE
+ "they doused each other with hoses and water balloons") 
+
+(:WORD "Dowdy" :MEANING "adj. slovenly; untidy" :EXAMPLE "") 
+
+(:WORD "Downcast" :MEANING "adj. disheartened; sad" :EXAMPLE "") 
+
+(:WORD "Drab" :MEANING "adj. dull; lacking color; cheerless" :EXAMPLE
+ "drab winter coat") 
+
+(:WORD "Draconian" :MEANING "adj. adj. extremely severe" :EXAMPLE
+ "draconian punishment") 
+
+(:WORD "Dregs" :MEANING "n. sediment; worthless residue" :EXAMPLE "") 
+
+(:WORD "Drivel" :MEANING "n. nonsense; foolishness" :EXAMPLE
+ "why o I have to spend my day listening to such idiotic drivel?") 
+
+(:WORD "Droll" :MEANING "adj. queer and amusing" :EXAMPLE "") 
+
+(:WORD "Drone" :MEANING "n. idle person; male bee;
+v. talk dully; buzz or murmur like a bee"
+ :EXAMPLE "") 
+
+(:WORD "Dross" :MEANING "n. waste matter; worthless impurities" :EXAMPLE "") 
+
+(:WORD "Drudgery" :MEANING
+ "n. menial work; hard monotonous routine work; donkey work; grind; plodding"
+ :EXAMPLE "") 
+
+(:WORD "Dubious" :MEANING "adj. questionable; filled with doubt" :EXAMPLE "") 
+
+(:WORD "Dulcet" :MEANING "adj. sweet sounding" :EXAMPLE
+ "the dulcet sounds of the birds at dawn") 
+
+(:WORD "Dunce" :MEANING
+ "n. blockhead; bonehead; knucklehead; dunderhead; pea brain; muttonhead; lunk; lunkhead; hammerhead; dumbass; chowderhead; lame brain; loggerhead; numbskull; numskull"
+ :EXAMPLE "") 
+
+(:WORD "Duplicity" :MEANING "n. double-dealing; hypocrisy" :EXAMPLE "") 
+
+(:WORD "Duress" :MEANING "n. forcible restraint, esp. unlawfully" :EXAMPLE "") 
+
+(:WORD "Dutiful" :MEANING "adj. respecful; obedient
+"
+ :EXAMPLE
+ "when mother told Billy to kiss grandmother, the boy obediently gave the old woman a dutiul peck on her cheek. ") 
+
+(:WORD "Dwindle" :MEANING "v. shrink; reduce" :EXAMPLE "") 
+
+(:WORD "Dynamic" :MEANING "adj. energetic; vigorously active
+"
+ :EXAMPLE "") 
+
+(:WORD "Dyspeptic; n. dypepsia" :MEANING "adj. suffering from indigestion "
+ :EXAMPLE "") 
+
+(:WORD "Earthy" :MEANING "adj. unrefined; coarse" :EXAMPLE "") 
+
+(:WORD "Ebb" :MEANING "v., n. recede; lessen" :EXAMPLE
+ "sitting on the beach, Mrs. Dalloway wtched the tide ebb.") 
+
+(:WORD "Ebullient" :MEANING
+ "adj. showing excitement; overflowing with enthusiasm" :EXAMPLE
+ "Amy's ebullient nature could not be repressed.") 
+
+(:WORD "Eccentric" :MEANING "adj. odd; whimsical; bizarre; irregular" :EXAMPLE
+ "") 
+
+(:WORD "Eccentricity" :MEANING "n. oddity; idiosyncrasy" :EXAMPLE
+ "Some of his friends tried to account for his rudeness to strangers as the eccentricity of genius ") 
+
+(:WORD "Ecclesiastic" :MEANING "adj., n. pertaining to church" :EXAMPLE "") 
+
+(:WORD "Eclectic; n. eclecticism" :MEANING
+ "adj. Selective; composed o elements drawn from disparate sources" :EXAMPLE
+ "His style o interior decoration was eclectic.") 
+
+(:WORD "Eclipse" :MEANING "v. Darken; extinguish; surpass" :EXAMPLE
+ "the new stock market high eclipsed the previou record set in 1985") 
+
+(:WORD "Ecstasy; adj. ecstatic" :MEANING
+ "n. rapture; joy; any overpowering emotion" :EXAMPLE "") 
+
+(:WORD "Edict" :MEANING
+ "n. decree (esp. one issued by a sovereign); official command" :EXAMPLE "") 
+
+(:WORD "Edify" :MEANING "v. instruct; correct morally" :EXAMPLE "") 
+
+(:WORD "Efface" :MEANING "v. rub out " :EXAMPLE
+ "the coin had been handed so many times that its date had been effaced.") 
+
+(:WORD "Effectual" :MEANING "adj. able to produce a desired effect; valid"
+ :EXAMPLE
+ "many once-useful antibiotics are no longer effectual in curing bacterial infections") 
+
+(:WORD "Effeminate" :MEANING "aj. having womanly traits" :EXAMPLE "") 
+
+(:WORD "Effervescence; adj. effervescent; v. effervesce" :MEANING
+ "n. inner excitement; exuberance; bubbling from fermentation or carbonation"
+ :EXAMPLE "") 
+
+(:WORD "Effete" :MEANING "adj. lacking vigor; worn out; sterile" :EXAMPLE "") 
+
+(:WORD "Efficacy; adj. efficacious" :MEANING
+ "n. power to produce desired effect" :EXAMPLE
+ "the efficacy of this drug depends on the regularity of the dosage.") 
+
+(:WORD "Effigy" :MEANING "n. dummy" :EXAMPLE "") 
+
+(:WORD "Effluvium; Pl. effluvia" :MEANING "n. noxious smell" :EXAMPLE "") 
+
+(:WORD "Effrontery" :MEANING
+ "n. impudence; shameless boldness; sheer nerve; presumptuousness" :EXAMPLE
+ "When the boss fired Frank, he had the effrontery to ask her for a letter of recommendation ") 
+
+(:WORD "Effusive; n. Effusion" :MEANING "n. pouring forth; gushing" :EXAMPLE
+ "the critics objected to her literary effusion because it was too flowery.") 
+
+(:WORD "Egoism" :MEANING
+ "n. Concern for your own interest and welfare; belief that one should be interested in one's self rather than in others "
+ :EXAMPLE "") 
+
+(:WORD "Egotistical; adj. egotistic; n. egotism" :MEANING
+ "adj. characteristics of those having an inflated idea of their own importance"
+ :EXAMPLE "") 
+
+(:WORD "Egregious" :MEANING "adj. notorious; conspicuously bad or shocking"
+ :EXAMPLE "") 
+
+(:WORD "Egress" :MEANING "n. exit" :EXAMPLE "") 
+
+(:WORD "Elated; n. elation" :MEANING "adj. overjoyed; in high spirits" :EXAMPLE
+ "Bonnie was clearly elated by her fifth gold medal.") 
+
+(:WORD "Elegy; adj. elegiacal" :MEANING
+ "n. poem or song expressing lamentation" :EXAMPLE
+ "on the death of Edward, nancy composed an elegy.") 
+
+(:WORD "Elicit" :MEANING "v. draw out by discussion" :EXAMPLE
+ "the detectives tried to elicit where he had hidden his loot.") 
+
+(:WORD "Elixir" :MEANING "n. cure-all; something invigorating" :EXAMPLE "") 
+
+(:WORD "Ellipsis" :MEANING "n. omission of words from a text. " :EXAMPLE "") 
+
+(:WORD "Elliptical" :MEANING
+ "adj. oval; ambiguous, either purposely or because key words have been left out"
+ :EXAMPLE "An elliptical remark baffles because it is not perfectly clear") 
+
+(:WORD "Elucidate" :MEANING "v. explain; enlighten" :EXAMPLE "") 
+
+(:WORD "Elusive; v. elude" :MEANING "adj. evasive; baffling; hrd to grasp"
+ :EXAMPLE "") 
+
+(:WORD "Elysian" :MEANING "adj. reltin to paradise; blissful" :EXAMPLE "") 
+
+(:WORD "Emaciated" :MEANING "adj. thin and wasted" :EXAMPLE
+ "  a severe illness left him emaciated.") 
+
+(:WORD "Emanate" :MEANING "v. issue forth" :EXAMPLE
+ "a strong odor of sulphur emanated from the spring ") 
+
+(:WORD "Emancipate" :MEANING "v. set free" :EXAMPLE "") 
+
+(:WORD "Embargo" :MEANING "n. ban on commerce or other activity " :EXAMPLE
+ "As a result of the embargo, trade with the colonies was at a standstill") 
+
+(:WORD "Embark" :MEANING "v. commence; go on board a boat; begin a journey"
+ :EXAMPLE "") 
+
+(:WORD "Embellish" :MEANING "v. adorn; ornament; enhance, as a story" :EXAMPLE
+ "") 
+
+(:WORD "Embezzlement" :MEANING "n. stealing" :EXAMPLE
+ "the bank teller confessed his embezzlement of the funds") 
+
+(:WORD "Embroil" :MEANING
+ "v. throw into confusion; involve in strife; entangle" :EXAMPLE "") 
+
+(:WORD "Embryonic" :MEANING "adj. undeveloped; rudimentary" :EXAMPLE
+ "the computer industry was still in its embryonic stage ") 
+
+(:WORD "Emetic" :MEANING "n. substance causing vomiting " :EXAMPLE "") 
+
+(:WORD "Eminent " :MEANING "adj. high; lofty" :EXAMPLE
+ "After her appointment to this eminent position, she seldom had time for her former friends") 
+
+(:WORD "Emissary" :MEANING "n. agent; messenger" :EXAMPLE "") 
+
+(:WORD "Emollient" :MEANING " n. soothing or softening remedy" :EXAMPLE "") 
+
+(:WORD "Emolument" :MEANING "n. salary; compensation" :EXAMPLE "") 
+
+(:WORD "Empathy" :MEANING
+ "n. ability to identify one's with another's feelings, ideas, etc." :EXAMPLE
+ "") 
+
+(:WORD "Empirical" :MEANING "adj. based on experience" :EXAMPLE "") 
+
+(:WORD "Emulate" :MEANING "v. imitate; rival" :EXAMPLE "") 
+
+(:WORD "Enclave" :MEANING "n. territory enclosed by an alien land" :EXAMPLE "") 
+
+(:WORD "Encomiastic; n. encomium" :MEANING "adj. praising; eulogistic" :EXAMPLE
+ "") 
+
+(:WORD "Encroachment" :MEANING "n. gradual intrusion" :EXAMPLE "") 
+
+(:WORD "Encumber" :MEANING "v. burden" :EXAMPLE
+ "some people encumber themselves with too much luggage") 
+
+(:WORD "Endearment" :MEANING "n. word or act of showing affection" :EXAMPLE "") 
+
+(:WORD "Endemic" :MEANING
+ "adj. prevailing among a specific group of people or in a specific area or country"
+ :EXAMPLE "") 
+
+(:WORD "Endorse" :MEANING "v. approve; support" :EXAMPLE "") 
+
+(:WORD "Endue" :MEANING
+ "v. provide with some quality; endow; give qualities or abilities to" :EXAMPLE
+ "He was endued with lion's courage") 
+
+(:WORD "Enduring" :MEANING "adj. lasting; surviving" :EXAMPLE "") 
+
+(:WORD "Enervate" :MEANING "v. weaken" :EXAMPLE "") 
+
+(:WORD "Enfranchise" :MEANING
+ "v. admit to the rights of citizenship (esp. to vote)" :EXAMPLE
+ "Although blacks were enfranchised shortly after civil war, women did not receive the right to vote until 1920") 
+
+(:WORD "Engage" :MEANING "v. attract; hire; pledge oneself; confront" :EXAMPLE
+ "") 
+
+(:WORD "Engaging" :MEANING "adj. attractive; charming" :EXAMPLE "") 
+
+(:WORD "Engender" :MEANING "v. cause; produce" :EXAMPLE "") 
+
+(:WORD "Enigma; adj. enigmatic" :MEANING "n. puzzle; mystery" :EXAMPLE "") 
+
+(:WORD "Enjoin" :MEANING "v. command; order; forbid" :EXAMPLE "") 
+
+(:WORD "Enmity" :MEANING "n. ill-will; hatred" :EXAMPLE "") 
+
+(:WORD "Ennui" :MEANING "n. boredom" :EXAMPLE "") 
+
+(:WORD "Enormity" :MEANING "n. hugeness (in a bad sense)" :EXAMPLE "") 
+
+(:WORD "Enrapture" :MEANING "v. please intensely" :EXAMPLE
+ "the audience was enraptured by the excellent orchestration") 
+
+(:WORD "Ensconce" :MEANING "v. settle comfortably" :EXAMPLE "") 
+
+(:WORD "Ensue" :MEANING "v. follow as a consequence" :EXAMPLE "") 
+
+(:WORD "Entail" :MEANING "v. require; necessitate; involve" :EXAMPLE
+ "building a college-level vocabulary will entail some hard work on your part") 
+
+(:WORD "Enterprising" :MEANING "adj. full of initiative" :EXAMPLE
+ "Mike proved himself to be an enterprising businessman by coming up with fresh ways to market the company's products") 
+
+(:WORD "Enthrall" :MEANING "v. capture; enslave" :EXAMPLE
+ "he was enthralled by her beauty") 
+
+(:WORD "Entice" :MEANING "v. attract; lure; tempt" :EXAMPLE "") 
+
+(:WORD "Entity" :MEANING
+ "that which is perceived to have its own distinctive existence" :EXAMPLE
+ "United nations became an entity") 
+
+(:WORD "Entomology" :MEANING "n. study of insects" :EXAMPLE "") 
+
+(:WORD "Entrance" :MEANING "v. put under a spell; carry away with emotion "
+ :EXAMPLE
+ "Shafts of sunlight on a wall could entrance her and leave her spellbound") 
+
+(:WORD "Entreat" :MEANING "plead; ask earnestly" :EXAMPLE "") 
+
+(:WORD "Entree" :MEANING "n. entrance; a way in" :EXAMPLE
+ "he had entree into the most exclusive circles") 
+
+(:WORD "Enumerate" :MEANING "v. list; mention one-by-one" :EXAMPLE "") 
+
+(:WORD "Environ" :MEANING "v., n. enclose; surround" :EXAMPLE "") 
+
+(:WORD "Eon" :MEANING "n. long period of time; an age" :EXAMPLE "") 
+
+(:WORD "Epaulet" :MEANING
+ "n. ornament worn on the shoulder (of a uniform etc.)" :EXAMPLE "") 
+
+(:WORD "Ephemeral" :MEANING "adj. short-lived; fleeting" :EXAMPLE "") 
+
+(:WORD "Epicure" :MEANING "n. Connoisseur of food and drink" :EXAMPLE "") 
+
+(:WORD "Epigram" :MEANING "n. witty thought or saying, usually short" :EXAMPLE
+ "") 
+
+(:WORD "Episodic" :MEANING "adj. loosely connected" :EXAMPLE
+ " he found the novel too episodic") 
+
+(:WORD "Epistemologist" :MEANING
+ "n. philosopher who studies the nature of knowledge" :EXAMPLE "") 
+
+(:WORD "Epitaph" :MEANING "n. inscription in memory of a dead person" :EXAMPLE
+ "") 
+
+(:WORD "Epithet" :MEANING
+ "n. word or phrase characteristically used to define a person or thing"
+ :EXAMPLE
+ "So many kings were named Charles that students need epithet to tell them apart: Charles the wise, Charles the fat etc.") 
+
+(:WORD "Epitome; v. epitomize" :MEANING "n. perfect example or embodiment"
+ :EXAMPLE "") 
+
+(:WORD "Equable" :MEANING "adj. tranquile; steady; uniform" :EXAMPLE "") 
+
+(:WORD "Equanimity" :MEANING "n. composure; calmness of temperament" :EXAMPLE
+ "") 
+
+(:WORD "Equestrian" :MEANING "n. rider on the horseback" :EXAMPLE "") 
+
+(:WORD "Equine" :MEANING "adj. resembling a horse" :EXAMPLE "") 
+
+(:WORD "Equinox" :MEANING
+ "n. period of equal days and nights; the beginning of spring and autumn"
+ :EXAMPLE "") 
+
+(:WORD "Equipoise" :MEANING "n. balance; balancing force; equilibrium" :EXAMPLE
+ "the high-wire acrobat used his pole as an equipoise") 
+
+(:WORD "Equitable" :MEANING "adj. fair; impartial" :EXAMPLE "") 
+
+(:WORD "Equity" :MEANING "n. fairness; impartial " :EXAMPLE "") 
+
+(:WORD "Equivocal; v. equivocate; n. equivocation" :MEANING
+ "adj. ambiguous; intentionally misleading" :EXAMPLE "") 
+
+(:WORD "Errant " :MEANING "adj. wandering" :EXAMPLE "") 
+
+(:WORD "Erudite" :MEANING "adj. learned; scholarly" :EXAMPLE "") 
+
+(:WORD "Escapade" :MEANING "n. prank; flightly conduct" :EXAMPLE "") 
+
+(:WORD "Eschew" :MEANING "v. avoid" :EXAMPLE "") 
+
+(:WORD "Esoteric; n. esoterica" :MEANING
+ "adj. hard to understand; known only to the chosen few" :EXAMPLE "") 
+
+(:WORD "Espionage" :MEANING "n. spying" :EXAMPLE "") 
+
+(:WORD "Espouse" :MEANING "v. adopt; support" :EXAMPLE "") 
+
+(:WORD "Essay" :MEANING "v. make an attempt at; test" :EXAMPLE "") 
+
+(:WORD "Estranged; n. estrangement" :MEANING "adj. separated; alienated"
+ :EXAMPLE "the estranged wife sought a divorce") 
+
+(:WORD "Ethnic" :MEANING "adj. relating to races" :EXAMPLE "") 
+
+(:WORD "Ethnology" :MEANING "n. study of word parts" :EXAMPLE "") 
+
+(:WORD "Eugenic" :MEANING "adj. pertaining to the improvement of race" :EXAMPLE
+ "") 
+
+(:WORD "Eulogistic" :MEANING "adj. praising" :EXAMPLE "") 
+
+(:WORD "Eulogy; v. eulogize" :MEANING
+ "n. expression of praise, often on the occasion of someone's death" :EXAMPLE
+ "") 
+
+(:WORD "Euphemism" :MEANING "n. mild expression in place of an unpleasant one"
+ :EXAMPLE "the expression \"he passed away\" is a eupherism for \"he died\"") 
+
+(:WORD "Euphony; adj. euphonious" :MEANING "n. sweet sound" :EXAMPLE "") 
+
+(:WORD "Euphoria" :MEANING
+ "n. feeling of exaggerated (or unfounded) well being (or joy and pride)"
+ :EXAMPLE "") 
+
+(:WORD "Evanescent" :MEANING "adj. fleeting; vanishing" :EXAMPLE
+ "evanescent rays of the sunset") 
+
+(:WORD "Evasive; v. evade" :MEANING
+ "adj. eluding; not frank; deliberately ambiguous " :EXAMPLE "") 
+
+(:WORD "Evince" :MEANING "v. show clearly" :EXAMPLE
+ "he evinced his ignorance of the subject matter") 
+
+(:WORD "Evocative; n. evocation" :MEANING
+ "adj. tending to call up (emotions, memories)" :EXAMPLE "") 
+
+(:WORD "Ewe" :MEANING "n. female sheep" :EXAMPLE "") 
+
+(:WORD "Exacerbate; n. exacerbation" :MEANING "v. worsen; embitter" :EXAMPLE
+ "the latest bombing exacerbated the England's already existing bitterness against IRA") 
+
+(:WORD "Exact" :MEANING "v. require or demand, often forcibly; take" :EXAMPLE
+ "") 
+
+(:WORD "Exacting; n. exaction" :MEANING "adj. extremely demanding" :EXAMPLE "") 
+
+(:WORD "Exalt" :MEANING "v. raise in rank or dignity; praise" :EXAMPLE "") 
+
+(:WORD "Exasperate" :MEANING "v. vex; make annoyed or frustrated or furious"
+ :EXAMPLE "John often exasperates his mother with his pranks") 
+
+(:WORD "Exceptionable" :MEANING "adj. objectionable" :EXAMPLE "") 
+
+(:WORD "Excise; n. excision" :MEANING "v. cut out; cut away" :EXAMPLE "") 
+
+(:WORD "Exclaim" :MEANING "v. cry out suddenly" :EXAMPLE "") 
+
+(:WORD "Excoriate" :MEANING
+ "v. scold with biting harshness; strip off the skin" :EXAMPLE
+ "his mother furiously excoriated him for lying.") 
+
+(:WORD "Exculpate" :MEANING "v. clear from blame" :EXAMPLE "") 
+
+(:WORD "Execrable" :MEANING "adj. very bad" :EXAMPLE
+ "the anecdote was in such execrable taste that the audience revolted ") 
+
+(:WORD "Execrate" :MEANING "v. curse; express abhorrence for" :EXAMPLE
+ "world execrates the memory of Hitler") 
+
+(:WORD "Exegesis" :MEANING "n. explanation, esp of biblical passages" :EXAMPLE
+ "") 
+
+(:WORD "Exemplary" :MEANING "adj. serving as a model; outstanding" :EXAMPLE
+ "the dean praised Ellen for her exemplary behavior as class president ") 
+
+(:WORD "Exemplify" :MEANING "v. show by example; furnish an example" :EXAMPLE
+ "") 
+
+(:WORD "Exempt" :MEANING "adj., v. not subject to a duty or obligation"
+ :EXAMPLE
+ "Because of his flat feet, he was exempted from serving in the armed forces ") 
+
+(:WORD "Exhilarating" :MEANING "adj. invigorating and refreshing; cheering"
+ :EXAMPLE "") 
+
+(:WORD "Exhort; n. exhortation" :MEANING "v. urge" :EXAMPLE "") 
+
+(:WORD "Exhume" :MEANING "v. gid out of the ground; remove from the grave"
+ :EXAMPLE "") 
+
+(:WORD "Exigency" :MEANING
+ "n. urgent situation; pressing needs or demands; state of requiring immediate attention"
+ :EXAMPLE "") 
+
+(:WORD "Exiguous" :MEANING "adj. small; minute" :EXAMPLE "") 
+
+(:WORD "Exodus " :MEANING "n. departure" :EXAMPLE "") 
+
+(:WORD "Exonerate" :MEANING "v. acquit; exculpate" :EXAMPLE "") 
+
+(:WORD "Exorbitant" :MEANING "adj. excessive" :EXAMPLE "") 
+
+(:WORD "Exotic" :MEANING "n. not native; strange" :EXAMPLE "") 
+
+(:WORD "Expansive" :MEANING
+ "adj. outgoing and sociable; broad and extensive; able to increase in size"
+ :EXAMPLE
+ "Mr. Fezz was in an expansive humor, cheerfully urging his guests to join in the christmas feast") 
+
+(:WORD "Expatiate" :MEANING "v. talk at length" :EXAMPLE
+ "at this time, please give us a brief resume of your work, we shall permit you to expatiate later. ") 
+
+(:WORD "Expatriate" :MEANING
+ "n. exile; someone who has withdrawn from his native land" :EXAMPLE "") 
+
+(:WORD "Expedient; n. expidency" :MEANING "adj. suitable; practical; politic"
+ :EXAMPLE
+ "A pregmatic politician, she was guided by what was expedient rather than what was ethical ") 
+
+(:WORD "Expedite" :MEANING "v. hasten; speed up the progress" :EXAMPLE "") 
+
+(:WORD "Expiate" :MEANING "v. make amends for (a sin)" :EXAMPLE
+ "he tried to expiate his crimes by performing acts o charity") 
+
+(:WORD "Expletive" :MEANING "v. interjection; profane oath" :EXAMPLE "") 
+
+(:WORD "Explicate" :MEANING "v. explain; interpret; clarify" :EXAMPLE "") 
+
+(:WORD "Exploit" :MEANING "n. deed or action, particularly brave deed" :EXAMPLE
+ "") 
+
+(:WORD "Expository" :MEANING "adj. explanatory; serving to explain" :EXAMPLE "") 
+
+(:WORD "Expostulation" :MEANING "n. protest; remonstrance" :EXAMPLE
+ "despite the teacher's scoldings and expostulations, the class remained unruly") 
+
+(:WORD "Expropriate" :MEANING "v. take possession of" :EXAMPLE "") 
+
+(:WORD "Expunge" :MEANING "v. cancel; remove" :EXAMPLE
+ "If you will behave, I will expunge this notation from your record") 
+
+(:WORD "Expurgate" :MEANING
+ "v. clean; remove offensive content parts of a book" :EXAMPLE "") 
+
+(:WORD "Extant" :MEANING "adj. still in existence" :EXAMPLE
+ "although the book is out of print, some copies are still extant.") 
+
+(:WORD "Extenuate" :MEANING "v. weaken; mitigate" :EXAMPLE "") 
+
+(:WORD "Extirpate" :MEANING "v. root up" :EXAMPLE
+ "The witch trials were a misguided attempt to extirpate superstition.") 
+
+(:WORD "Extol" :MEANING "v. praise; glorify" :EXAMPLE "") 
+
+(:WORD "Extort" :MEANING "v. wring from; get money by threats, etc." :EXAMPLE
+ "the blackmailer extorted money from his victim") 
+
+(:WORD "Extraneous" :MEANING "adj. not essential; superfluous" :EXAMPLE "") 
+
+(:WORD "Extrapolation" :MEANING
+ "n. projection; conjecture; an inference of future based on known facts and observations"
+ :EXAMPLE "") 
+
+(:WORD "Extricate" :MEANING "v. free; disentangle" :EXAMPLE "") 
+
+(:WORD "Extrinsic" :MEANING "adj. external; not essential; extraneous" :EXAMPLE
+ "") 
+
+(:WORD "Extrude" :MEANING "v. force or push out" :EXAMPLE "") 
+
+(:WORD "Exuberance" :MEANING
+ "n. overflowing abundance; joyful enthusiasm; flamboyance; lavishness"
+ :EXAMPLE "") 
+
+(:WORD "Exude; n. exudation" :MEANING "v. discharge; give forth" :EXAMPLE
+ "We get maple syrup from the sap that the trees exude in early spring") 
+
+(:WORD "Facade" :MEANING
+ "n. front (of building); superficial or false appearance" :EXAMPLE "") 
+
+(:WORD "Facet" :MEANING "n. small plane surface (of a gem); a side" :EXAMPLE "") 
+
+(:WORD "Facetious" :MEANING "adj. joking (often inappropriately); humurous"
+ :EXAMPLE "") 
+
+(:WORD "Facile; n. facility" :MEANING
+ "adj. easily accomplished; ready or fluent; superficial " :EXAMPLE "") 
+
+(:WORD "Faction" :MEANING "n. party; clique; dissension" :EXAMPLE
+ "the quarrels and bickering of the two small factions within the club disturbed the majority of people ") 
+
+(:WORD "Factious" :MEANING "adj. inclined to form factions; causing dissension"
+ :EXAMPLE "") 
+
+(:WORD "Factitious" :MEANING "adj. artificial; sham" :EXAMPLE "") 
+
+(:WORD "Factotum" :MEANING "n. handyman; person who does all kinds of work"
+ :EXAMPLE
+ "although we had hired him as a messenger, we soon began to use him as a general factotum around the office") 
+
+(:WORD "Faculty" :MEANING "n. mental or bodily powers; teaching staff" :EXAMPLE
+ "") 
+
+(:WORD "Ghost" :MEANING "A mental representation of some haunting experience"
+ :EXAMPLE "He looked like he had seen a ghost.") 
+
+(:WORD "Inchoate" :MEANING "adj. recently begun; rudimentary; elementary"
+ :EXAMPLE "Before the creation, the world was an inchoate mass") 
+
+(:WORD "Incongruity" :MEANING "n. lack of harmony; absurdity" :EXAMPLE "") 
+
+(:WORD "Inconsequential" :MEANING "adj. insignificant; unimportant" :EXAMPLE "") 
+
+(:WORD "Indigence" :MEANING "n. poverty" :EXAMPLE "") 
+
+(:WORD "Indolent" :MEANING "adj. lazy" :EXAMPLE "") 
+
+(:WORD "Ingenuous" :MEANING "adj. naive and trusting; young; unsophisticated"
+ :EXAMPLE
+ "The woodsman did not realize how  ingenuous little red riding hood was until he  heard that she had gone off for a walk in the woods with the big bad wolf.") 
+
+(:WORD "Innocuous" :MEANING "adj. harmless" :EXAMPLE "") 
+
+(:WORD "Insensible" :MEANING "adj. unconscious; unresposive" :EXAMPLE
+ "Sherry and I are very different, at times when I  would be covered with embarrasment, she seems insensible to shame.") 
+
+(:WORD "Insinuate" :MEANING "v. hint; imply; creep in" :EXAMPLE
+ "When you said I look robust, did you mean to insinuate that I am getting fat ? ") 
+
+(:WORD "Insipid" :MEANING "adj. lacking in flavour; dull" :EXAMPLE "") 
+
+(:WORD "Intractable" :MEANING "adj. unruly; stubborn; unyielding" :EXAMPLE "") 
+
+(:WORD "Intransigence" :MEANING "n. refusal of any compromise; stubborness"
+ :EXAMPLE "") 
+
+(:WORD "Inured" :MEANING "adj. accustomed; hardened" :EXAMPLE
+ "She became inured to the alaskan cold") 
+
+(:WORD "Invective" :MEANING "n. abuse" :EXAMPLE "") 
+
+(:WORD "Invigorating" :MEANING "adj. imparting strength or vitality" :EXAMPLE
+ "") 
+
+(:WORD "Irascible" :MEANING "adj. irritable; easily angered" :EXAMPLE "") 
+
+(:WORD "Itinerary" :MEANING "n. plan of a trip" :EXAMPLE "") 
+
+(:WORD "Lackonic" :MEANING "adj. brief and to the point" :EXAMPLE "") 
+
+(:WORD "Lassitude" :MEANING "n. langour; weariness" :EXAMPLE
+ "After a message and a long soak in the hot tub, I surrendered to my growing lassitude and lay down to a nap.") 
+
+(:WORD "Latent" :MEANING "adj. potential but undeveloped; dormant; hidden"
+ :EXAMPLE "") 
+
+(:WORD "Levee" :MEANING "n. earthen or stone embankment to prevent flooding"
+ :EXAMPLE "") 
+
+(:WORD "Levity" :MEANING "n. lack of seriousness or steadiness; frivolity"
+ :EXAMPLE "") 
+
+(:WORD "Loquacious" :MEANING "adj. talkative" :EXAMPLE "") 
+
+(:WORD "Lucid" :MEANING "nadj. easily understood; clear; intelligible" :EXAMPLE
+ "") 
+
+(:WORD "Magnanimity" :MEANING "n. generosity" :EXAMPLE "") 
+
+(:WORD "Malingerer" :MEANING "n. one who feigns illness to escape duty"
+ :EXAMPLE "") 
+
+(:WORD "Maverick" :MEANING "n. rebel; nonconformist" :EXAMPLE "") 
+
+(:WORD "Mendacious; n. Mandacity" :MEANING "adj. lying; habitually dishonest"
+ :EXAMPLE
+ "Distrusting Hulk from the start, Miss Pottson assumed he was mandacious and refused to hear a word he said.") 
+
+(:WORD "Mollify" :MEANING "v. soothe" :EXAMPLE "") 
+
+(:WORD "Morose" :MEANING "adj. ill humoured; sullen; melancholy" :EXAMPLE
+ "Forced to take early retirement, Bill acted morose for months.") 
+
+(:WORD "Resolute" :MEANING "Steadfast" :EXAMPLE "") 
